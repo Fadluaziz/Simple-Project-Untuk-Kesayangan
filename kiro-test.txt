@@ -1,0 +1,5 @@
+Kiro berhasil membaca composer.json dan membuat file ini.
+
+Proyek: laravel/laravel
+Framework: laravel/framework ^12.0
+PHP: ^8.2
